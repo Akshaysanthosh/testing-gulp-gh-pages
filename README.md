@@ -1,5 +1,13 @@
-# Testing gulp-gh-pages
+# Carta
+Say hello to Carta, a modern, illustrated site template.
 
-Part of a tutorial on using gulp-gh-pages, which you can read [here](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp).
+[Papaya](https://www.papayatemplates.com)
+[@jrdnbwmn](https://www.twitter.com/jrdnbwmn)
 
-You're awesome, by the way.
+Demo images from [Unsplash](https://unsplash.com/).
+Icons from [Entypo](http://entypo.com/).
+
+## Instructions
+For local development, run `npm install` on the main directory and then `gulp` to get BrowserSync going along with all the Gulp tasks (see [Pear](https://github.com/jrdnbwmn/Pear)).
+
+Development files are in `src`. Everything is compiled into `dist`—that’s where all your final files reside.
