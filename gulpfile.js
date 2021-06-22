@@ -1,8 +1,9 @@
 // Get things set up
 // -------------------------------------------------------------------
     // Include Gulp
+var deploy      = require('gulp-gh-pages');
 var gulp                    = require("gulp"),
-var deploy      = require('gulp-gh-pages'),
+
 
 
     // HTML plugins
